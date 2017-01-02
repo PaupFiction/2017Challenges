@@ -1,0 +1,4 @@
+#basic print for 'Hello world!' in python
+
+print ('Hello world!')
+
